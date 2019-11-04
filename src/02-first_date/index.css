@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  display: inline-block;
+  margin: 5px;
+  max-height: 50px;
+}
+
+.container {
+  display: flex;
+}
+
+.box {
+  border: 2px dashed grey;
+  min-height: 200px;
+  width: 48%;
+  margin: 1%;
+}
